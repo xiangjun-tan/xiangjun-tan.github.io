@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [School of Physics, UNSW]([https://github.com](https://www.unsw.edu.au/science/our-schools/physics)). I am pursuing a double degree in Quantum Engineering and Physics. During the summer of 2022, I participated in a Quantum Technology summer school program at Peking University. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation, as well as quantum simulations for many-body physics problem and error mitigation for its quantum algorithm. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects.
+My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [School of Physics, UNSW]([https://github.com](https://www.unsw.edu.au/science/our-schools/physics)). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation, as well as quantum simulations for many-body physics problem and error mitigation for its quantum algorithm. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects.
 
 ## Research Interests
 
@@ -20,3 +20,8 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
+
+## Education
+
+- **UNSW 24fall:** Bachelor of Engineering/Bachelor of Science
+- **Peking University:** Summer School 2022 for quantum technology
