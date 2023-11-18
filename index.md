@@ -17,6 +17,6 @@ I am Xiangjun Tan, a undergraduate student at [School of Physics, UNSW]([https:/
 - **[Feb. 2023]** Dean's honours list in Engineering 2022.
 - **[Dec. 2022]** Sydney Quantum Academy Undergraduate Student Research Scholarship.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
