@@ -4,6 +4,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.unswrsa.com/forum.php"><autocolor>Forum for UNSW Research Seminar Association</autocolor></a></li>
-  <li><a href="[https://www.unswrsa.com/forum.php](https://www.arc.unsw.edu.au/get-involved/opportunity?name=Research%20Seminar%20Association)https://www.arc.unsw.edu.au/get-involved/opportunity?name=Research%20Seminar%20Association"><autocolor>UNSW ARC Society</autocolor></a></li>
+  <li><a href="https://www.arc.unsw.edu.au/get-involved/opportunity?name=Research%20Seminar%20Association)https://www.arc.unsw.edu.au/get-involved/opportunity?name=Research%20Seminar%20Association"><autocolor>UNSW ARC Society</autocolor></a></li>
   
 </ul>
