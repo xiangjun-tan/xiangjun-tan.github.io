@@ -7,7 +7,7 @@ email: xiangjun.tan@student.unsw.edu.au
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: UNSWRSA, Xiangjun Tan
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Personal Websitte for Xiangjun
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -37,7 +37,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+#google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
