@@ -23,8 +23,8 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 
 ## Paper and Draft
 
-- **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):**
-- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):**
+- **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):**I want to write down a book for people who studied in non-physics background, just need a litlle linear algebra and statistic knowledge, for those who were really interested in QM&PP.(Currently in Chinese version but I will convert it into English after I finished it)
+- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** I just want to write something to document what I learned and prevent forgetting those interesting topics.
 
 ## Education
 
