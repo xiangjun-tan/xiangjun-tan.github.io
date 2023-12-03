@@ -21,6 +21,11 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 
 {% include_relative _includes/services.md %}
 
+## Paper and Draft
+
+- **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):**
+- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):**
+
 ## Education
 
 - **UNSW 24fall:** Bachelor of Engineering/Bachelor of Science
