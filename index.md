@@ -27,6 +27,6 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 - **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository serves as a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits, encapsulated to aid memory retention and to share my fascination with these compelling topics.
 
 ## Education
-
-- **UNSW 24fall:** Bachelor of Engineering/Bachelor of Science
+- **University of New South Wales:** Bachelor of Science(Honours), 2024
+- **University of New South Wales:** Bachelor of Engineering Science/Bachelor of Science, 2021-2023
 - **Peking University:** Summer School 2022 for quantum technology
