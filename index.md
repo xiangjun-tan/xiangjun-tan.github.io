@@ -8,8 +8,8 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 
 ## Research Interests
 
-- **Condensed Matter:** Quantum Hall Effect, Bandgap Theory
-- **Quantum Simulation:** High Energy Particles Dynamics
+- **Condensed Matter:** First Principle Calculation
+- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter/ Neutrinoflavor evolution
 
 ## News and Awards
 
