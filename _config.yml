@@ -9,6 +9,13 @@ email: xiangjun.tan@student.unsw.edu.au
 keywords: UNSW RSA, Xiangjun Tan, 谈相君, Quantum Computing, xiangjun
 description: Welcome to the personal website of Xiangjun Tan, featuring insights and publications on Quantum Tech and Condensed Matter, updates on ongoing projects, and professional milestones.
 canonical: https://xiangjun-tan.github.io
+google-site-verification=RZLA2MKX92M15lOSpbbR5Ca5rSuPSv9rQcqMlr8liUk
+# Baidu Webmaster tools verification.
+# See: https://ziyuan.baidu.com/site
+baidu_site_verification: true
+
+# Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
+baidu_push: true  
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
