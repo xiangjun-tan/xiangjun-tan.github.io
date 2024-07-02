@@ -4,17 +4,18 @@ layout: homepage
 
 ## About Me
 
-My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [School of Physics, UNSW](https://www.unsw.edu.au/science/our-schools/physics). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation and quantum simulations for many-body physics problems and error mitigation for its quantum algorithm. Currently, I am working on my thesis project for Analysis of Dark Matter Experiments Enhanced through Quantum Information. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects.
+My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of Physics, UNSW](https://www.unsw.edu.au/science/our-schools/physics). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation and quantum simulations for many-body physics problems and error mitigation for its quantum algorithm. Currently, I am working on my thesis project for Analysis of Dark Matter Experiments Enhanced through Quantum Information. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects.
 
 ## Research Interests
 
 - **Condensed Matter:** Quantum Many-body Dynamics, Topological Phonon surface states
-- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter scattering/ neutrino flavor evolution
+- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter scattering/ neutrino flavour evolution
 
 ## News and Awards
 - **[May. 2024]** IBM Quantum has awarded $105,000 AUD to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
-- **[Feb. 2024]** Finished the Talented Student Program, recognised as the Top student in the UNSW Science Faculty.
-- **[Oct. 2023]** Our poster about Quantum Error Mitigation on the quantum dynamics model for collective neutrino oscillation has been accepted by QPQIS2023.
+- **[May. 2024]** Finished my bachelor's degree in Quantum Engineering and bachelor's degree in Physics, graduated with distinction.
+- **[Feb. 2024]** Completed the Talented Student Program, recognised as the Top student in the UNSW Science Faculty.
+- **[Oct. 2023]** Our poster about Quantum Error Mitigation in the quantum dynamics model for collective neutrino oscillation has been accepted by QPQIS2023.
 - **[Feb. 2023]** Dean's honours list in Engineering 2022.
 - **[Dec. 2022]** Sydney Quantum Academy Undergraduate Student Research Scholarship.
 
@@ -25,7 +26,7 @@ My name is Xiangjun Tan, and I am a 4th-year undergraduate student at the [Schoo
 ## Paper and Draft
 
 - **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):** This book is crafted for enthusiasts from non-physics backgrounds with a foundational understanding of linear algebra and statistics. It aims to make quantum mechanics and particle physics accessible to those with a deep curiosity in the subjects. The content is currently available in Chinese, with plans to release an English version upon completion.
-- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository serves as a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits, encapsulated to aid memory retention and to share my fascination with these compelling topics.
+- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository is a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits, encapsulated to aid memory retention and to share my fascination with these compelling topics.
 
 ## Education
 - **University of New South Wales:** Bachelor of Science(Honours), 2024
