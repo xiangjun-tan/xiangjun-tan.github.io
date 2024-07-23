@@ -12,6 +12,7 @@ My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of P
 - **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMP) scattering/ neutrino flavour evolution
 
 ## News and Awards
+- **[Jul. 2024]** my paper about the quantum computing for phonon scattering effects on thermal conductivity has been submitted to the arXiv:[2407.15808](https://arxiv.org/abs/2407.15808).
 - **[May. 2024]** IBM Quantum has awarded $105,000 AUD to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
 - **[May. 2024]** I finished my bachelor's degree in Quantum Engineering and my bachelor's degree in Physics, and graduated with distinction.
 - **[Feb. 2024]** Completed the Talented Student Program, recognised as the Top student in the UNSW Science Faculty.
@@ -20,10 +21,10 @@ My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of P
 - **[Dec. 2022]** Sydney Quantum Academy Undergraduate Student Research Scholarship.
 
 <!-- {% include_relative _includes/publications.md %} -->
-
+{% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
 
-## Paper and Draft
+## Github Repo
 
 - **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):** This book is crafted for enthusiasts from non-physics backgrounds with a foundational understanding of linear algebra and statistics. It aims to make quantum mechanics and particle physics accessible to those with a deep curiosity in the subjects. The content is currently available in Chinese, and an English version will be released upon completion.
 - **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository is a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits, encapsulated to aid memory retention and to share my fascination with these compelling topics.
