@@ -14,3 +14,10 @@ main:
     conference: arXiv, 2024.
     notes: Preprint
     image: ./assets/img/BSM.png
+
+  - title: "Quantum Dynamics of Topological Phase"
+    authors: <strong>Xiangjun Tan</strong>
+    conference_short: Working in Progress
+    conference: arXiv, 2024.
+    notes: Preprint
+    image: ./assets/img/Topo.png
