@@ -27,7 +27,7 @@ My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of P
 ## Github Repo
 
 - **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):** This book is crafted for enthusiasts from non-physics backgrounds with a foundational understanding of linear algebra and statistics. It aims to make quantum mechanics and particle physics accessible to those with a deep curiosity in the subjects. The content is currently available in Chinese, and an English version will be released upon completion.
-- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository is a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits, encapsulated to aid memory retention and to share my fascination with these compelling topics.
+- **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository is a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits; it also includes my project codes for simulating the material's magnetism with lattice defects.
 
 ## Education
 - **University of New South Wales:** Bachelor of Science(Honours), 2024
