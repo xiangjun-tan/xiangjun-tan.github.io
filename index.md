@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of Physics, UNSW](https://www.unsw.edu.au/science/our-schools/physics). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation with state distillment and quantum simulation for many-body physics problems and error mitigation for its quantum algorithm. Currently, I am working on my thesis project for Analysis of Dark Matter Experiments Enhanced through Quantum Information. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects.
+My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of Physics, UNSW](https://www.unsw.edu.au/science/our-schools/physics). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation with state distillment and quantum simulation for many-body physics problems and error mitigation for its quantum algorithm. Currently, I am working on my thesis project for Analysis of Dark Matter Experiments Enhanced through Quantum Information. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects. Currently I am looking for a PhD position.
 
 ## Research Interests
 
