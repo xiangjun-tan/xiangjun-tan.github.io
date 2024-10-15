@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of Physics, UNSW](https://www.unsw.edu.au/science/our-schools/physics). I am pursuing a double degree in Quantum Engineering and Physics. Previously, I have conducted experiments on the Quantum Hall Effect at temperatures below 250 mK and developed protocols for advanced quantum teleportation with state distillment and quantum simulation for many-body physics problems and error mitigation for its quantum algorithm. Currently, I am working on my thesis project for Analysis of Dark Matter Experiments Enhanced through Quantum Information. I am proficient in coding with Matlab, Python, and the C language, having completed numerous projects. Currently I am looking for a PhD position.
+I am an Honours year physics student at UNSW, and I am interested in QIQC & HEP & CMP. I am also the president of the Research Seminar Association in UNSW, which has thousands of members, and we hold seminars on different topics every week. I've loved football and running for many years in my spare time. Currently, The Elder Scrolls is my favourite electronic game.
 
 ## Research Interests
 
@@ -12,8 +12,9 @@ My name is Xiangjun Tan, and I am a 5th-year Honours student at the [School of P
 - **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMP) scattering/ neutrino flavour evolution
 
 ## News and Awards
-- **[Jul. 2024]** my paper about the quantum computing for phonon scattering effects on thermal conductivity has been submitted to the arXiv:[2407.15808](https://arxiv.org/abs/2407.15808).
-- **[May. 2024]** IBM Quantum has awarded $105,000 AUD to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
+- **[Oct. 2024]** Our poster about [Analysis of Dark Matter Experiments Enhanced  through Quantum Information](http://qpqis.baqis.ac.cn/2024/poster/poster-details/455) has been accepted by QPQIS2024.
+- **[Jul. 2024]** My paper about the quantum computing for phonon scattering effects on thermal conductivity has been submitted to arXiv:[2407.15808](https://arxiv.org/abs/2407.15808).
+- **[May. 2024]** IBM Quantum has awarded $105,000 to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
 - **[May. 2024]** I finished my bachelor's degree in Quantum Engineering and my bachelor's degree in Physics, and graduated with distinction.
 - **[Feb. 2024]** Completed the Talented Student Program, recognised as the Top student in the UNSW Science Faculty.
 - **[Oct. 2023]** Our poster about Quantum Error Mitigation in the quantum dynamics model for collective neutrino oscillation has been accepted by QPQIS2023.
