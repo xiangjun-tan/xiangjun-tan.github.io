@@ -12,7 +12,7 @@ I am an Honours year physics student at UNSW, and I am interested in QIQC & HEP 
 - **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMP) scattering/ neutrino flavour evolution
 
 ## News and Awards
-- **[Nov. 2024]** I have completed my Honours thesis titled [Physics Beyond the Standard Model Enhanced through Quantum Information]([assets/files/Xiangjun_Thesis.pdf](https://github.com/xiangjun-tan/xiangjun-tan.github.io/blob/main/assets/files/Thesis_Xiangjun.pdf))
+- **[Nov. 2024]** I have completed my Honours thesis titled [Physics Beyond the Standard Model Enhanced through Quantum Information](https://github.com/xiangjun-tan/xiangjun-tan.github.io/blob/main/assets/files/Thesis_Xiangjun.pdf).
 - **[Oct. 2024]** Our poster about [Analysis of Dark Matter Experiments Enhanced  through Quantum Information](http://qpqis.baqis.ac.cn/2024/poster/poster-details/455) has been accepted by QPQIS2024.
 - **[Jul. 2024]** My paper about the quantum computing for phonon scattering effects on thermal conductivity has been submitted to arXiv:[2407.15808](https://arxiv.org/abs/2407.15808).
 - **[May. 2024]** IBM Quantum has awarded $105,000 to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
