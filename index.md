@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Honours year physics student at UNSW, and I am interested in QIQC & HEP & CMP. I am also the president of the Research Seminar Association in UNSW, which has thousands of members, and we hold seminars on different topics every week. I've loved football and running for many years in my spare time. Currently, The Elder Scrolls is my favourite electronic game.
+I am a Research Assistant student at CFCS, Peking University, and interested in QIQC & HEP & CMP. I am also the president of the Research Seminar Association at UNSW, which has thousands of members, and we hold seminars on different topics every week. I've loved football and running for many years in my spare time.
 
 ## Research Interests
 
