@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Assistant student at CFCS, Peking University, and interested in QIQC, HEP, and CMP. I am also the former president of the Research Seminar Association at UNSW, which has thousands of members. We hold seminars on different topics every week. In my spare time, I've loved football and running for many years.
+I am a PhD student at University College London, and am interested in QIQC, HEP, and CMP. I am also the former president of the Research Seminar Association at UNSW, which has thousands of members. We hold seminars on different topics every week. In my spare time, I've loved football and running for many years.
 
 ## Research Interests
 
@@ -30,7 +30,9 @@ I am a Research Assistant student at CFCS, Peking University, and interested in 
 - **[Introduction to Quantum Physics and Particle Physics](https://github.com/xiangjun-tan/Introduction-to-Quantum-Physics-and-Particle-Physics):** This book is crafted for enthusiasts from non-physics backgrounds with a foundational understanding of linear algebra and statistics. It aims to make quantum mechanics and particle physics accessible to those with a deep curiosity in the subjects. The content is currently available in Chinese, and an English version will be released upon completion.
 - **[Solid-State-Physics](https://github.com/xiangjun-tan/Solid-State-Physics):** This repository is a personal archive of my journey through solid-state physics. It's a collection of insights and key learnings from my academic pursuits; it also includes my project codes for simulating the material's magnetism with lattice defects.
 
-## Education
+## Education/Research History
+- **University College London:** PhD in Physics, 2025-2029
+- **Peking University:** Research Assistant, 2025
 - **University of New South Wales:** Bachelor of Science(Honours), 2024
 - **University of New South Wales:** Bachelor of Engineering Science/Bachelor of Science, 2021-2023
 - **Peking University:** Summer School 2022
