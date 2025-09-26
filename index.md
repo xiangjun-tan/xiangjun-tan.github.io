@@ -22,7 +22,7 @@ I am a PhD student at University College London, and am interested in QIQC, HEP,
 - **[Dec. 2022]** SQA Undergraduate Student Research Scholarship.
 
 <!-- {% include_relative _includes/publications.md %} -->
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
 
 ## Github Repo
