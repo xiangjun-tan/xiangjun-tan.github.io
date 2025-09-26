@@ -1,11 +1,26 @@
 main:
-
+  - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
+    authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    conference_short: Not Available
+    conference: PRD under review, currently not available
+    pdf: Not Available
+    notes: Submitted to PRD
+    image: ./assets/img/Axion_annual.png
+    
+  - title: "Toward Axion Signal Extraction in Semiconductor Spin Qubits Via Spectral Engineering"
+    authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    conference_short: IEEE TQE
+    conference: IEEE Transactions on Quantum Engineering, doi:10.1109/TQE.2025.3599670
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11127003
+    notes: Published
+    image: ./assets/img/Axion.png
+    
   - title: "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity"
     authors: <strong>Xiangjun Tan</strong>
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2407.15808
-    notes: Preprint
+    notes: Preprint under peer review
     image: ./assets/img/thermal.png
     
   - title: "Physics Beyond the Standard Model Enhanced through Quantum Information"
@@ -14,10 +29,3 @@ main:
     conference: arXiv, 2024.
     notes: Preprint
     image: ./assets/img/BSM.png
-
-  - title: "Quantum Dynamics of Topological Phase"
-    authors: <strong>Xiangjun Tan</strong>
-    conference_short: Working in Progress
-    conference: arXiv, 2024.
-    notes: Preprint
-    image: ./assets/img/Topo.png
