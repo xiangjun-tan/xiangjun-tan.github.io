@@ -1,9 +1,9 @@
 main:
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
-    conference_short: Not Available
-    conference: PRD under review, currently not available
-    pdf: Not Available
+    conference_short: PRD
+    conference: Physical Review D Revised
+    pdf: https://arxiv.org/abs/2511.03630
     notes: Submitted to PRD
     image: ./assets/img/Axion_annual.png
     
