@@ -19,10 +19,10 @@ baidu_push: true
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=OjJS4g0AAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=OjJS4g0AAAAJ&amp;hl=en
 cv_link: assets/files/Resume.pdf
 github_link: https://github.com/xiangjun-tan
-linkedin: https://www.linkedin.com/in/xiangjun-tan-30188b22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+linkedin: https://www.linkedin.com/in/xiangjun-tan-30188b22a?utm_source=share&utm_campaign=share_via&utm_content=profile
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
