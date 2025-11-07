@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at University College London, and am interested in QIQC, HEP, and CMP. I am also the former president of the Research Seminar Association at UNSW, which has thousands of members. We hold seminars on different topics every week. In my spare time, I've loved football and running for many years.
+Xiangjun Tan is a PhD student at University College London in 2025, supervised by Prof. Sougato Bose. He is interested in QIQC and its application in HEP and CMP. He finished his Physics Honours degree under the supervision of Prof. Susan Coppersmith at the University of New South Wales, and the project was awarded $100,000 credits from IBM Quantum in 2024. He used to be a research assistant in the condensed matter theory group of Prof. Tiantian Zhang at the Institute of Theoretical Physics, Chinese Academy of Sciences (2023-2024). He was also the founder and the former president (2023-2024) of the Research Seminar Association at the University of New South Wales, which has thousands of student members.
 
 ## Research Interests
 
