@@ -1,10 +1,18 @@
 main:
+  - title: "Bichromatic Rabi oscillation induced dynamical sweet spot in Ge hole spin qubits"
+    authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
+    conference_short: APL
+    conference: Applied Physics Letters
+    pdf: Not valid
+    notes: Submitted to APL
+    image: ./assets/img/Sweet_spot.png
+    
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     conference_short: PRD
-    conference: Physical Review D Revised
+    conference: Physical Review D accepted
     pdf: https://arxiv.org/abs/2511.03630
-    notes: Submitted to PRD
+    notes: Accepted
     image: ./assets/img/Axion_annual.png
     
   - title: "Toward Axion Signal Extraction in Semiconductor Spin Qubits Via Spectral Engineering"
