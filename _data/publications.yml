@@ -4,15 +4,15 @@ main:
     conference_short: APL
     conference: Applied Physics Letters
     pdf: Not valid
-    notes: Submitted to APL
+    notes: APL
     image: ./assets/img/Sweet_spot.png
     
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     conference_short: PRD
-    conference: Physical Review D accepted
-    pdf: https://arxiv.org/abs/2511.03630
-    notes: Accepted
+    conference: Physical Review D
+    pdf: https://journals.aps.org/prd/abstract/10.1103/886r-126m
+    notes: Published
     image: ./assets/img/Axion_annual.png
     
   - title: "Toward Axion Signal Extraction in Semiconductor Spin Qubits Via Spectral Engineering"
