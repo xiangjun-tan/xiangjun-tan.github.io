@@ -8,8 +8,8 @@ Xiangjun Tan is a PhD student at University College London in 2025, supervised b
 
 ## Research Interests
 
-- **Condensed Matter:** Many-body Dynamics, Topological Phonon surface states
-- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMP) scattering/ neutrino flavour evolution
+- **Condensed Matter:** Many-body Dynamics, Topological Phonon
+- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMPs,Axion) scattering/ neutrino flavour evolution
 
 ## News and Awards
 <!-- **[Nov. 2024]** I have completed my Honours thesis titled [Physics Beyond the Standard Model Enhanced through Quantum Information](https://github.com/xiangjun-tan/xiangjun-tan.github.io/blob/main/assets/files/Thesis_Xiangjun.pdf).
