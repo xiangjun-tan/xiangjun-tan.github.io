@@ -3,9 +3,17 @@ main:
     authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
     conference_short: APL
     conference: Applied Physics Letters
-    pdf: Not valid
-    notes: APL
-    image: ./assets/img/Sweet_spot.png
+    pdf: https://arxiv.org/pdf/2601.06805
+    notes: APL in press
+    image: ./assets/img/DeltaOmega.png
+    
+  - title: "Axion Signal Search Using Hybrid Nuclear–Electronic Spin Systems"
+    authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    conference_short: PRL
+    conference: Physical Review Letters
+    pdf: https://arxiv.org/pdf/2601.06816
+    notes: Under Review
+    image: ./assets/img/Device.png
     
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
