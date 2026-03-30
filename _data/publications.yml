@@ -3,8 +3,8 @@ main:
     authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
     conference_short: APL
     conference: Applied Physics Letters
-    pdf: https://arxiv.org/pdf/2601.06805
-    notes: APL in press
+    pdf: https://pubs.aip.org/aip/apl/article/128/12/124001/3384695/Canceling-second-order-frequency-shifts-in-Ge-hole
+    notes: Published
     image: ./assets/img/DeltaOmega.png
     
   - title: "Axion Signal Search Using Hybrid Nuclear–Electronic Spin Systems"
