@@ -12,20 +12,21 @@ Xiangjun Tan is a PhD student at University College London in 2025, supervised b
 - **Condensed Matter:** Many-body Dynamics/ Theory of Si/Ge QD Spin Qubits
 - **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMPs,Axion) scattering/ neutrino flavour evolution
 
+<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
+
 ## News and Awards
-<!-- **[Nov. 2024]** I have completed my Honours thesis titled [Physics Beyond the Standard Model Enhanced through Quantum Information](https://github.com/xiangjun-tan/xiangjun-tan.github.io/blob/main/assets/files/Thesis_Xiangjun.pdf).
-<!-- **[May. 2024]** IBM Quantum has awarded $105,000 to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.-->
+- **[Nov. 2025]** I have started my PhD degree in University College London.
+- **[Nov. 2024]** I have completed my Honours thesis titled [Physics Beyond the Standard Model Enhanced through Quantum Information](https://github.com/xiangjun-tan/xiangjun-tan.github.io/blob/main/assets/files/Thesis_Xiangjun.pdf).
+- **[May. 2024]** IBM Quantum has awarded $105,000 to our project on the Analysis of Dark Matter Experiments Enhanced through Quantum Information.
 - **[May. 2024]** I finished my bachelor's degree and graduated with distinction.
 - **[Feb. 2024]** Completed the Talented Student Program, recognised as the Top student in the UNSW Science Faculty.
 - **[Feb. 2023]** Dean's honours list in Engineering 2022.
 - **[Dec. 2022]** SQA Undergraduate Student Research Scholarship.
 
-<!-- {% include_relative _includes/publications.md %} -->
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/services.md %}
-
 ## Education/Research History
-- **University College London:** PhD in Physics, 2025-2029
+- **University College London:** PhD in Physics, 2025-2028
 - **Peking University:** Research Assistant, 2025
 - **University of New South Wales:** Bachelor of Science(Honours), 2024
 - **University of New South Wales:** Bachelor of Engineering Science/Bachelor of Science, 2021-2023
