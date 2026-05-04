@@ -36,12 +36,5 @@ main:
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2407.15808
-    notes: Preprint under peer review
-    image: ./assets/img/thermal.png
-    
-  - title: "Physics Beyond the Standard Model Enhanced through Quantum Information"
-    authors: <strong>Xiangjun Tan</strong>
-    conference_short: Working in Progress
-    conference: arXiv, 2024.
     notes: Preprint
-    image: ./assets/img/BSM.png
+    image: ./assets/img/thermal.png
