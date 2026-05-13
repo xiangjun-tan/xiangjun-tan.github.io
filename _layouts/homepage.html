@@ -2,7 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <title>{{ site.title }} | {{site.affiliation}}</title>
-    <meta name="google-site-verification" content="6qLEu2Znq11Ic1rDpQ6TDnknp4b1wiGep3peP65deT4" />
+    {% if site.google_site_verification %}
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+    {% endif %}
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,7 +52,11 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if site.affiliation_link %}
+        <a href="{{ site.affiliation_link }}" rel="noopener noreferrer"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% else %}
+        <autocolor>{{ site.affiliation }}</autocolor>
+        {% endif %}
         <br>
         {% endif %}
         {% if site.email %}
@@ -61,31 +67,31 @@
         <br>
         <div class="social-icons">
         {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
         </a>  
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank" rel="noopener noreferrer">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
@@ -100,7 +106,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Xiangjun Tan 2023 </small></p>
+      <p><small>Powered by Xiangjun Tan {{ site.time | date: "%Y" }}</small></p>
       {% endif %}
 
       </section>

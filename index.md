@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Xiangjun Tan is a PhD student at University College London in 2025, supervised by Prof. Sougato Bose. He is interested in QIQC and its application in HEP and CMP. He finished his Physics Honours degree under the supervision of Prof. Susan Coppersmith at the University of New South Wales, and the project was awarded $100,000 credits from IBM Quantum in 2024. He used to be a research assistant in the condensed matter theory group of Prof. Tiantian Zhang at the Institute of Theoretical Physics, Chinese Academy of Sciences (2023-2024). He was also the founder and the former president (2023-2024) of the Research Seminar Association at the University of New South Wales, which has thousands of student members.
+Xiangjun Tan is a PhD student at University College London, supervised by Prof. Sougato Bose. He is interested in QIQC and its application in HEP and CMP. He finished his Physics Honours degree under the supervision of Prof. Susan Coppersmith at the University of New South Wales, and the project was awarded $100,000 credits from IBM Quantum in 2024. He used to be a research assistant in the condensed matter theory group of Prof. Tiantian Zhang at the Institute of Theoretical Physics, Chinese Academy of Sciences (2023-2024). He was also the founder and the former president (2023-2024) of the Research Seminar Association at the University of New South Wales, which has thousands of student members.
 
 ## Research Interests
 
 - **Quantum Sensing:** Axion/ALPs Search via Semiconductor QD Spin Qubit Platform
 - **Condensed Matter:** Many-body Dynamics/ Theory of Si/Ge QD Spin Qubits
-- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter(WIMPs,Axion) scattering/ neutrino flavour evolution
+- **Quantum Simulation:** High Energy Particles Dynamics/ Dark matter (WIMPs, Axion) scattering/ neutrino flavour evolution
 
 <!-- {% include_relative _includes/publications.md %} -->
 {% include_relative _includes/publications.md %}

@@ -2,6 +2,7 @@
 title: Xiangjun Tan (谈相君)
 position: PhD in Physics
 affiliation: University College London
+affiliation_link: https://www.ucl.ac.uk/
 email: xinshjietxj@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -9,11 +10,11 @@ email: xinshjietxj@gmail.com
 keywords: UNSW RSA, Xiangjun Tan, 谈相君, Quantum Computing, xiangjun tan
 description: Welcome to the personal website of Xiangjun Tan, featuring insights and publications on Quantum Tech and Condensed Matter, updates on ongoing projects, and professional milestones.
 canonical: https://xiangjun-tan.github.io/
-#google-site-verification=RZLA2MKX92M15lOSpbbR5Ca5rSuPSv9rQcqMlr8liUk
+google_site_verification: 6qLEu2Znq11Ic1rDpQ6TDnknp4b1wiGep3peP65deT4
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
 baidu_site_verification: true
-google_analytics: <Xiangjun Tan>，xiangjun tan，谈相君
+# google_analytics: UA-XXXXXXXXX-X
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: true  
 
@@ -44,8 +45,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-#google_analytics: UA-111540567-4
-google-site-verification: google8f426bc9b6f2808d.html
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
