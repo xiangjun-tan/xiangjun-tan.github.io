@@ -1,40 +1,49 @@
 main:
   - title: "Bichromatic Rabi oscillation induced dynamical sweet spot in Ge hole spin qubits"
     authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
+    venue: Applied Physics Letters
+    year: 2026
+    status: Published
     conference_short: APL
-    conference: Applied Physics Letters
     pdf: https://pubs.aip.org/aip/apl/article/128/12/124001/3384695/Canceling-second-order-frequency-shifts-in-Ge-hole
-    notes: Published
     image: ./assets/img/DeltaOmega.png
-    
+
   - title: "Axion Signal Search Using Hybrid Nuclear–Electronic Spin Systems"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    venue: Physical Review Letters
+    year: 2026
+    status: Under Review
     conference_short: PRL
-    conference: Physical Review Letters
+    arxiv: "2601.06816"
     pdf: https://arxiv.org/pdf/2601.06816
-    notes: Under Review
     image: ./assets/img/Device.png
-    
+
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    venue: Physical Review D
+    year: 2025
+    status: Published
     conference_short: PRD
-    conference: Physical Review D
+    doi: 10.1103/886r-126m
     pdf: https://journals.aps.org/prd/abstract/10.1103/886r-126m
-    notes: Published
     image: ./assets/img/Axion_annual.png
-    
+
   - title: "Toward Axion Signal Extraction in Semiconductor Spin Qubits Via Spectral Engineering"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    venue: IEEE Transactions on Quantum Engineering
+    year: 2025
+    status: Published
     conference_short: IEEE TQE
-    conference: IEEE Transactions on Quantum Engineering, doi:10.1109/TQE.2025.3599670
+    doi: 10.1109/TQE.2025.3599670
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11127003
-    notes: Published
     image: ./assets/img/Axion.png
-    
+
   - title: "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity"
     authors: <strong>Xiangjun Tan</strong>
+    venue: arXiv
+    year: 2024
+    status: Preprint
     conference_short: arXiv
-    conference: arXiv, 2024.
+    arxiv: "2407.15808"
     pdf: https://arxiv.org/pdf/2407.15808
-    notes: Preprint
     image: ./assets/img/thermal.png
