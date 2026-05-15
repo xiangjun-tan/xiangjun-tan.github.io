@@ -7,8 +7,8 @@ email: xinshjietxj@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: UNSW RSA, Xiangjun Tan, 谈相君, Quantum Computing, xiangjun tan
-description: Welcome to the personal website of Xiangjun Tan, featuring insights and publications on Quantum Tech and Condensed Matter, updates on ongoing projects, and professional milestones.
+keywords: Xiangjun Tan, 谈相君, University College London Physics, quantum sensing, semiconductor spin qubits, quantum dot spin qubits, axion search, condensed matter theory, quantum simulation, high energy physics, IBM Quantum, UNSW RSA
+description: Personal website of Xiangjun Tan, a UCL Physics PhD student researching quantum sensing, semiconductor spin qubits, axion searches, quantum simulation, and condensed matter theory.
 canonical: https://xiangjun-tan.github.io/
 google_site_verification: 6qLEu2Znq11Ic1rDpQ6TDnknp4b1wiGep3peP65deT4
 # Baidu Webmaster tools verification.
@@ -28,8 +28,8 @@ linkedin: https://www.linkedin.com/in/xiangjun-tan-30188b22a?utm_source=share&ut
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/avatar.jpg
-favicon_dark: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

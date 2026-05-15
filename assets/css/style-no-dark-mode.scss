@@ -2,3 +2,21 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+.position,
+.email {
+  margin: 0;
+}
+
+.email {
+  font-size: 14px;
+  font-family: "Ubuntu Mono";
+}
+
+.autocolor {
+  color: #595959;
+}
+
+.position {
+  font-size: 1.10rem;
+}
