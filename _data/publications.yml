@@ -1,5 +1,6 @@
 main:
   - title: "Quantum error correction assisted axion search in CMOS spin qubit arrays"
+    category: Quantum Sensing & Dark Matter
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     venue: Physical Review D
     year: 2026
@@ -10,6 +11,7 @@ main:
     image: ./assets/img/Axion_QEC.png
     
   - title: "Bichromatic Rabi oscillation induced dynamical sweet spot in Ge hole spin qubits"
+    category: Spin-Qubit Physics
     authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
     venue: Applied Physics Letters
     year: 2026
@@ -19,6 +21,7 @@ main:
     image: ./assets/img/DeltaOmega.png
 
   - title: "Axion Signal Search Using Hybrid Nuclear–Electronic Spin Systems"
+    category: Quantum Sensing & Dark Matter
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     venue: Physical Review D Letters
     year: 2026
@@ -29,6 +32,7 @@ main:
     image: ./assets/img/Device.png
 
   - title: "Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors"
+    category: Quantum Sensing & Dark Matter
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     venue: Physical Review D
     year: 2025
@@ -39,6 +43,7 @@ main:
     image: ./assets/img/Axion_annual.png
 
   - title: "Toward Axion Signal Extraction in Semiconductor Spin Qubits Via Spectral Engineering"
+    category: Quantum Sensing & Dark Matter
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
     venue: IEEE Transactions on Quantum Engineering
     year: 2025
@@ -49,6 +54,7 @@ main:
     image: ./assets/img/Axion.png
 
   - title: "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity"
+    category: Quantum Simulation
     authors: <strong>Xiangjun Tan</strong>
     venue: arXiv
     year: 2024
