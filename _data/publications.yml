@@ -1,4 +1,14 @@
 main:
+  - title: "Quantum error correction assisted axion search in CMOS spin qubit arrays"
+    authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
+    venue: Physical Review D
+    year: 2026
+    status: Published
+    conference_short: PRD
+    doi: 10.1103/2y5c-x1kz
+    pdf: https://journals.aps.org/prd/abstract/10.1103/2y5c-x1kz
+    image: ./assets/img/Axion_QEC.png
+    
   - title: "Bichromatic Rabi oscillation induced dynamical sweet spot in Ge hole spin qubits"
     authors: <strong>Xiangjun Tan, Zhanning Wang, Wenkai Bai, Hanjie Zhu</strong>
     venue: Applied Physics Letters
@@ -10,10 +20,10 @@ main:
 
   - title: "Axion Signal Search Using Hybrid Nuclear–Electronic Spin Systems"
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>
-    venue: Physical Review Letters
+    venue: Physical Review D Letters
     year: 2026
-    status: Under Review
-    conference_short: PRL
+    status: Accepted
+    conference_short: PRD Letters
     arxiv: "2601.06816"
     pdf: https://arxiv.org/pdf/2601.06816
     image: ./assets/img/Device.png
