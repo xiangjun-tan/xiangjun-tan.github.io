@@ -1,12 +1,13 @@
 main:
-  - title: "arXiv preprint 2606.28695"
-    category: Other Publications
+  - title: "High-Fidelity Hole Spin Qubits Reveal Quadrupolar Nuclear-Bath Dynamics in Isotopically Purified Planar Germanium"
+    category: Spin-Qubit Physics
     venue: arXiv
     year: 2026
     status: Preprint
     conference_short: arXiv
     arxiv: "2606.28695"
     pdf: https://arxiv.org/pdf/2606.28695
+    image: ./assets/img/NQR.png
 
   - title: "Quantum error correction assisted axion search in CMOS spin qubit arrays"
     category: Quantum Sensing & Axion Dark Matter
