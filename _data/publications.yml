@@ -1,4 +1,13 @@
 main:
+  - title: "arXiv preprint 2606.28695"
+    category: Other Publications
+    venue: arXiv
+    year: 2026
+    status: Preprint
+    conference_short: arXiv
+    arxiv: "2606.28695"
+    pdf: https://arxiv.org/pdf/2606.28695
+
   - title: "Quantum error correction assisted axion search in CMOS spin qubit arrays"
     category: Quantum Sensing & Axion Dark Matter
     authors: <strong>Xiangjun Tan, Zhanning Wang</strong>

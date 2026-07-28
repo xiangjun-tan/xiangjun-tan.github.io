@@ -30,7 +30,9 @@
       {% else %}
       <div class="title">{{ link.title }}</div>
       {% endif %}
+      {% if link.authors %}
       <div class="author">{{ link.authors }}</div>
+      {% endif %}
       <div class="periodical">
         <em>{{ link.venue | default: link.conference }}</em>{% if link.year %}, {{ link.year }}{% endif %}{% if link.doi %}, doi:{{ link.doi }}{% endif %}
       </div>
