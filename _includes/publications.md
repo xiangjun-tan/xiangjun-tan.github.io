@@ -1,9 +1,18 @@
 <h2 id="publications" class="section-heading publications-heading">Publications</h2>
 
 <div class="publications">
+{% assign publication_groups = site.data.publications.main | group_by: "category" %}
+<p class="publications-intro">Browse {{ site.data.publications.main.size }} publications by research area. Select a category to expand it.</p>
+
+{% for group in publication_groups %}
+<details class="publication-group">
+<summary>
+  <span class="publication-group-title">{{ group.name }}</span>
+  <span class="publication-count">{{ group.items.size }} {% if group.items.size == 1 %}publication{% else %}publications{% endif %}</span>
+</summary>
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in group.items %}
 
 <li>
 <div class="pub-row">
@@ -21,7 +30,9 @@
       {% else %}
       <div class="title">{{ link.title }}</div>
       {% endif %}
+      {% if link.authors %}
       <div class="author">{{ link.authors }}</div>
+      {% endif %}
       <div class="periodical">
         <em>{{ link.venue | default: link.conference }}</em>{% if link.year %}, {{ link.year }}{% endif %}{% if link.doi %}, doi:{{ link.doi }}{% endif %}
       </div>
@@ -60,4 +71,6 @@
 {% endfor %}
 
 </ol>
+</details>
+{% endfor %}
 </div>
