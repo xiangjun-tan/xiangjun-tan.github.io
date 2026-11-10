@@ -2,7 +2,7 @@
 
 <div class="publications">
 {% assign publication_groups = site.data.publications.main | group_by: "category" %}
-<p class="publications-intro">Browse {{ site.data.publications.main.size }} publications by research area. Select a category to expand it.</p>
+<p class="publications-intro">Browse {{ site.data.publications.main.size }} publications by research area. Select a category to expand it. View the full list on <a href="https://inspirehep.net/authors/2966544" target="_blank" rel="noopener noreferrer">INSPIRE</a>.</p>
 
 {% for group in publication_groups %}
 <details class="publication-group">
@@ -16,14 +16,14 @@
 
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr publication-media">
-    {% if link.image %}
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser" loading="lazy">
-    {% endif %}
     {% if link.conference_short %}
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
+  {% endif %}
   <div class="col-sm-9 publication-content">
       {% if link.pdf %}
       <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></div>
@@ -34,7 +34,7 @@
       <div class="author">{{ link.authors }}</div>
       {% endif %}
       <div class="periodical">
-        <em>{{ link.venue | default: link.conference }}</em>{% if link.year %}, {{ link.year }}{% endif %}{% if link.doi %}, doi:{{ link.doi }}{% endif %}
+        <em>{{ link.venue | default: link.conference }}</em>{% if link.volume %} <strong>{{ link.volume }}</strong>{% endif %}{% if link.pages %}, {{ link.pages }}{% endif %}{% if link.year %}, {{ link.year }}{% endif %}{% if link.doi %}, doi:{{ link.doi }}{% endif %}
       </div>
     <div class="links">
       {% if link.pdf %}
