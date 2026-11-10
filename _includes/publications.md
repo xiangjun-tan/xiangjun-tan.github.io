@@ -18,7 +18,8 @@
 <div class="pub-row">
   {% if link.image %}
   <div class="col-sm-3 abbr publication-media">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser" loading="lazy">
+    {% assign teaser_alt = link.title | append: " teaser" %}
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.image_alt | default: teaser_alt | escape }}" loading="lazy"{% if link.image_contain %} style="max-width: 100%; object-fit: contain; background-color: #fff;"{% endif %}>
     {% if link.conference_short %}
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}

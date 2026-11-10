@@ -92,6 +92,11 @@ main:
     doi: 10.1103/sqpv-ks42
     arxiv: "2609.31391"
     pdf: https://arxiv.org/pdf/2609.31391
+    image: ./assets/img/Floquet-circuits.png
+    image_alt: Five Floquet circuit gate patterns comparing uniform, alternating, and single-defect architectures
+    image_contain: true
+    others: >-
+      <small><a href="https://arxiv.org/html/2609.31391v1#S2.F1" target="_blank" rel="noopener noreferrer">Figure 1</a> (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>)</small>
 
   - title: "Quantum Computing for Phonon Scattering Effects on Thermal Conductivity"
     category: Quantum Simulation and Quantum Information
